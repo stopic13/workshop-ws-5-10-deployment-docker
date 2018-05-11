@@ -56,7 +56,7 @@ You should get a response with this version or higher.
 ```shell
 docker info
 ```
-You will see a long response that begins with the following: 
+You will see a long response that begins with the following:
 
 ```
  Containers: 0
@@ -211,12 +211,12 @@ From this point on, you can run your app on any computer by simply running ```do
 
 No matter where ```docker run``` executes, it pulls your image, along with Python and all the dependencies from ```requirements.txt```, and runs your code. It all travels together in a neat little package, and you don’t need to install a new environment on the host machine for Docker to run it.
 
-### What to submit: 
+### What to submit:
 
 When you are finished, please commit your container and submit the forked GitHub repo on canvas.
 
-*If you would like to go further for extra credit*, feel free to complete parts 3, 4, 5 and 6 in the online tutorial below. 
-https://docs.docker.com/get-started/part3/. This workshop introduced you to part 1 and 2 already. 
+*If you would like to go further for extra credit*, feel free to complete parts 3, 4, 5 and 6 in the online tutorial below.
+https://docs.docker.com/get-started/part3/. This workshop introduced you to part 1 and 2 already.
 
 
 ## Summary / What you Learned
@@ -231,7 +231,7 @@ https://docs.docker.com/get-started/part3/. This workshop introduced you to part
 
 ## Resources
 
-This workshop is inspired by parts 1 and 2 of the "Get-Started" tutorial on Docker's website: 
+This workshop is inspired by parts 1 and 2 of the "Get-Started" tutorial on Docker's website:
 https://docs.docker.com/get-started/part2/
 
 ![pirates](https://media.giphy.com/media/o0eOCNkn7cSD6/giphy.gif)
